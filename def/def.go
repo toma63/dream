@@ -3,8 +3,8 @@ package def
 
 import (
 	"regexp"
-	"toma/dream"
-	"toma/parse"
+	"github.com/toma63/dream"
+	"github.com/toma63/parse"
 	"strconv"
 )
 

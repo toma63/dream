@@ -2,7 +2,7 @@ package dream
 // object which represents a flat design
 
 import (
-	"toma/geom2d"
+	"github.com/toma63/geom2d"
 )
 
 type DBlock struct {
